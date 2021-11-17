@@ -5,7 +5,5 @@ This is a 2-week course module on teaching AI for forest conversation, ideal for
 
 You can download the [Presentation](https://drive.google.com/drive/folders/1AvJ5sL-pTz6B_Cc4B2KZIQacbrp8A3p3?usp=sharing).
 
-<a href="https://drive.google.com/drive/folders/1AvJ5sL-pTz6B_Cc4B2KZIQacbrp8A3p3?usp=sharing" target="_blank">Presentation</a>
-
 ### data and code for this lab will be available soon
 
