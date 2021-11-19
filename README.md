@@ -1,7 +1,7 @@
 # Forest-Conservation-with-AI #
 This is a 2-week course module on teaching AI for forest conversation, ideal for undergrad and graduate courses. The course module was developed based the publication below. 
 
-   - Cota, G., Sagan, V., Maimaitijiang, M., and Freeman, K. (2021). Forest conservation with deep learning: A deeper understanding of human geography around the Betampona Nature Reserve, Madagascar.  Remote Sens., 13(17), 3495; doi: 10.3390/rs13173495.
+   - Cota, G., Sagan, V., Maimaitijiang, M., and Freeman, K. (2021). Forest conservation with deep learning: A deeper understanding of human geography around the Betampona Nature Reserve, Madagascar.  Remote Sens., 13(17), 3495; doi: [10.3390/rs13173495](https://doi.org/10.3390/rs13173495).
 
 
 ## A story of the African Island of Madagascar ##
