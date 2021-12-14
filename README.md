@@ -16,7 +16,3 @@ The goal of this repository is to create a tropical forest map (with other land 
 
 ## Presentation and Data ##
   - You can download the [Presentation and Data](https://drive.google.com/drive/folders/1AvJ5sL-pTz6B_Cc4B2KZIQacbrp8A3p3?usp=sharing).
-
-
-### Code for this training module
-
